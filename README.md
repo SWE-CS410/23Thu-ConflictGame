@@ -1,4 +1,4 @@
-# 22-ConflicctGameB
+# 23-ConflicctGameB
 This is a repository for pull request and conflict practice
 
 ## Play the game using these TWO RULES
