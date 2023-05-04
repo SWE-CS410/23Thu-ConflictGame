@@ -5,6 +5,9 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
-      Chris Nevares      |   christopher.nevares@bellevuecollege.edu
-                         |
+<<<<<<< HEAD
+=======
+      Saralyn Ogden      |   saralyn.ogden@bellevuecollege.edu
+>>>>>>> 7f154e049511c2c1f212e5579e22ba6c95a7c108
+       Chris Nevares      |   christopher.nevares@bellevuecollege.edu
                          
