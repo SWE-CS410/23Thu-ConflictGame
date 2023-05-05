@@ -10,6 +10,7 @@
       Brady Six          |   brady.six@bellevuecollege.edu
       Yuki Rivera        |   yukiko.rivera@bellevuecollege.edu
       Aravind Sripada    |   aravind.sripada@bellevuecollege.edu  
-	  Alvin Bautista     |   a.bautista@bellevuecollege.edu
+      Alvin Bautista     |   a.bautista@bellevuecollege.edu
       Emily Su           |   e.su@bellevuecollege.edu
       Priyanka Narasimhan|   priyanka.narasimhan@bellevuecollege.edu
+      Dewayne Dantzler   |   dewayne.dantzler@bellevuecollege.edu
