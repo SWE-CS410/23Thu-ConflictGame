@@ -7,6 +7,7 @@
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Saralyn Ogden      |   saralyn.ogden@bellevuecollege.edu
 <<<<<<< HEAD
+<<<<<<< HEAD
       Chris Nevares      |   christopher.nevares@bellevuecollege.edu
       Brady Six          |   brady.six@bellevuecollege.edu
       Yuki Rivera        |   yukiko.rivera@bellevuecollege.edu
@@ -20,3 +21,7 @@
       Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
                          
 >>>>>>> f9f3efa (Added Gustavo Gonzalez to sign in)
+=======
+      Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
+                         
+>>>>>>> refs/remotes/origin/sign-in-Gustavo
