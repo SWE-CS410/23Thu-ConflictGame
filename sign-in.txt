@@ -28,3 +28,5 @@
 >>>>>>> refs/remotes/origin/sign-in-Gustavo
       Treviour Lee       |   treviour.lee@bellevuecollege.edu
       Matthew Puleri     |   mattew.puleri@bellevuecollege.edu
+      Ulysses Foote-McNabb	|	fm.ulysses@bellevuecollege.edu
+
