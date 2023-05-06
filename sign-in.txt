@@ -5,6 +5,7 @@
 
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
+      Igor Janotti       |   igor.janotti@bellevuecollege.edu
       Saralyn Ogden      |   saralyn.ogden@bellevuecollege.edu
       Chris Nevares      |   christopher.nevares@bellevuecollege.edu
       Brady Six          |   brady.six@bellevuecollege.edu
@@ -22,4 +23,3 @@
       Treviour Lee       |   treviour.lee@bellevuecollege.edu
       Matthew Puleri     |   mattew.puleri@bellevuecollege.edu
       Ulysses Foote-McNabb	|	fm.ulysses@bellevuecollege.edu
-
