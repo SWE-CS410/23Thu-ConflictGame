@@ -2,18 +2,24 @@
         (created a feature branch with your name from develop if you don't have one yet)
 //TODO: Edit this document to put your name and  BC email below the last name on the list below ... 
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
-        
+
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Saralyn Ogden      |   saralyn.ogden@bellevuecollege.edu
       Chris Nevares      |   christopher.nevares@bellevuecollege.edu
       Brady Six          |   brady.six@bellevuecollege.edu
       Yuki Rivera        |   yukiko.rivera@bellevuecollege.edu
-      Aravind Sripada    |   aravind.sripada@bellevuecollege.edu  
+      Aravind Sripada    |   aravind.sripada@bellevuecollege.edu
       Alvin Bautista     |   a.bautista@bellevuecollege.edu
       Emily Su           |   e.su@bellevuecollege.edu
       Priyanka Narasimhan|   priyanka.narasimhan@bellevuecollege.edu
       Dewayne Dantzler   |   dewayne.dantzler@bellevuecollege.edu
       Monica Nguyen      |   d.phuongthuy.nguyen@bellevuecollege.edu
       Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
-      Caleb Rector	 |   caleb.rector@bellevuecollege.edu
+      Caleb Rector	     |   caleb.rector@bellevuecollege.edu
+      Mark Bonner        |   mark.bonner@bellevuecollege.edu
+      Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
+      Treviour Lee       |   treviour.lee@bellevuecollege.edu
+      Matthew Puleri     |   mattew.puleri@bellevuecollege.edu
+      Ulysses Foote-McNabb	|	fm.ulysses@bellevuecollege.edu
+
