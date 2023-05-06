@@ -27,4 +27,5 @@
       Gikwon Jeong       |   g.jeong@bellevuecollege.edu
       Lucas Rassbach     |  lucas.rassbach@belleuvecollege.edu
       Sean Fite          |  sean.fite@bellevuecollege.edu
+	Thomas Riffle	 |  thomas.riffle@bellevuecollege.edu
       
