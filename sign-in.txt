@@ -28,4 +28,5 @@
       Lucas Rassbach     |  lucas.rassbach@belleuvecollege.edu
       Sean Fite          |  sean.fite@bellevuecollege.edu
 	Thomas Riffle	 |  thomas.riffle@bellevuecollege.edu
+        Vanessa Miewald  |  vanessa.miewald@belleuvecollege.edu 
       
