@@ -5,9 +5,8 @@
 
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
+      Igor Janotti       |   igor.janotti@bellevuecollege.edu
       Saralyn Ogden      |   saralyn.ogden@bellevuecollege.edu
-<<<<<<< HEAD
-<<<<<<< HEAD
       Chris Nevares      |   christopher.nevares@bellevuecollege.edu
       Brady Six          |   brady.six@bellevuecollege.edu
       Yuki Rivera        |   yukiko.rivera@bellevuecollege.edu
@@ -17,14 +16,17 @@
       Priyanka Narasimhan|   priyanka.narasimhan@bellevuecollege.edu
       Dewayne Dantzler   |   dewayne.dantzler@bellevuecollege.edu
       Monica Nguyen      |   d.phuongthuy.nguyen@bellevuecollege.edu
-=======
       Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
-
->>>>>>> f9f3efa (Added Gustavo Gonzalez to sign in)
-=======
+      Caleb Rector	     |   caleb.rector@bellevuecollege.edu
+      Mark Bonner        |   mark.bonner@bellevuecollege.edu
       Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
-
->>>>>>> refs/remotes/origin/sign-in-Gustavo
       Treviour Lee       |   treviour.lee@bellevuecollege.edu
       Matthew Puleri     |   mattew.puleri@bellevuecollege.edu
       Ben Feldman        |   b.feldman@bellevuecollege.edu
+      Ulysses Foote-McNabb	|	fm.ulysses@bellevuecollege.edu
+      kunga ngochetsang  |  kunga.ngochetsang@bellevuecollege.edu
+      Gikwon Jeong       |   g.jeong@bellevuecollege.edu
+      Lucas Rassbach     |  lucas.rassbach@belleuvecollege.edu
+      Sean Fite          |  sean.fite@bellevuecollege.edu
+	    Thomas Riffle	 |  thomas.riffle@bellevuecollege.edu
+      Vanessa Miewald  |  vanessa.miewald@belleuvecollege.edu 
