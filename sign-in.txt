@@ -22,11 +22,11 @@
       Gustavo Gonzalez   |   gustavo.gonzalez@bellevuecollege.edu
       Treviour Lee       |   treviour.lee@bellevuecollege.edu
       Matthew Puleri     |   mattew.puleri@bellevuecollege.edu
+      Ben Feldman        |   b.feldman@bellevuecollege.edu
       Ulysses Foote-McNabb	|	fm.ulysses@bellevuecollege.edu
       kunga ngochetsang  |  kunga.ngochetsang@bellevuecollege.edu
       Gikwon Jeong       |   g.jeong@bellevuecollege.edu
       Lucas Rassbach     |  lucas.rassbach@belleuvecollege.edu
       Sean Fite          |  sean.fite@bellevuecollege.edu
-	Thomas Riffle	 |  thomas.riffle@bellevuecollege.edu
-        Vanessa Miewald  |  vanessa.miewald@belleuvecollege.edu 
-      
+	    Thomas Riffle	 |  thomas.riffle@bellevuecollege.edu
+      Vanessa Miewald  |  vanessa.miewald@belleuvecollege.edu 
